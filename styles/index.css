@@ -1,0 +1,36 @@
+* {
+  font-family: "ubuntu", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: #fff9f3 !important;
+}
+
+.add_new_btn_mobile_only {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  padding: 15px 10px;
+  background: white;
+  z-index: 3;
+  width: 100%;
+}
+
+.add_new_btn_mobile_only .custom_btn,
+nav .custom_btn,
+.card-footer .custom_btn {
+  background-color: #e44232;
+  color: white;
+  border-color: #e44232;
+}
+
+.add_new_btn_mobile_only .custom_btn:hover,
+nav .custom_btn:hover,
+.card-footer .custom_btn:hover {
+  background-color: white;
+  color: #e44232;
+  border-color: #e44232;
+}
