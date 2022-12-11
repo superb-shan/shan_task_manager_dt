@@ -1,3 +1,14 @@
-# Intro
 
-This is a frontend + Backend project. This is a task management website which is capable of retrieving / saving information. In other words, even though refreshing the site, the data will be persist. The project is scaled to local device, which means we can save information (tasks) and retrieve them from the local device only.
+# Shan's Task Manager
+
+This is a local scale Frontend + Backend project.
+* This website is an task saver ```TODO manager```
+* This is majorly built with **JavaScript**
+* This website is capable of retrieving saved data even after refreshing
+
+Happy Developing! 🧑‍🎤✨
+
+### Built with
+* HTML
+* CSS
+* JAVASCRIPT
